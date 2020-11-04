@@ -6,3 +6,4 @@
 ###GIT RESET###
 *HARD RESET*
 *SOFT RESET*
+###These lines written in Visual Studio####
